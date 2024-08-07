@@ -1,0 +1,4 @@
+aspose_zip==24.7.0
+pandas==1.5.3
+paramiko==3.4.0
+python-dotenv==1.0.1
